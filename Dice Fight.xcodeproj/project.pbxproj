@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		168AACC02C459BE9002F3FFA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		16DA5B6A2C459562005B4C80 /* Dice Fight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dice Fight.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		16DA5B6D2C459562005B4C80 /* Dice_FightApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_FightApp.swift; sourceTree = "<group>"; };
 		16DA5B6F2C459562005B4C80 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		16DA5B612C459562005B4C80 = {
 			isa = PBXGroup;
 			children = (
+				168AACC02C459BE9002F3FFA /* .gitignore */,
 				16DA5B7B2C459629005B4C80 /* README.md */,
 				16DA5B6C2C459562005B4C80 /* Dice Fight */,
 				16DA5B6B2C459562005B4C80 /* Products */,
