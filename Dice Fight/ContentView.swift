@@ -8,15 +8,14 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @StateObject var notsure = TestData()
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-            
+            BattleView()
         }
-        .padding()
+        .environmentObject(notsure)
     }
 }
 
